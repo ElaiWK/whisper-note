@@ -1,4 +1,4 @@
-const CACHE_NAME = 'zurich-geneva-trip-v2';
+const CACHE_NAME = 'zurich-geneva-trip-v3';
 const FILES_TO_CACHE = [
   './',
   './index.html',
